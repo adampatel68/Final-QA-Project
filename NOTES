@@ -1,0 +1,45 @@
+.center { margin: auto; width: 20%; padding: 10px; text-align: center; }
+THIS WILL CENTER THE TEXT IN THE WEB PAGE
+
+Data Access Object = DAO
+Transferable Object = TO
+Java Database Connectivity = JDBC - A JAVA API THAT ALLOWS JAVA TO TALK TO A DATABASE
+Application Programming Interface = API
+
+manit.manu4@gmail.com = Instructor's Email
+
+DB Utils class will have a meathod which you call when you need
+
+IDE = integrated development environment - Eclipse is a very popular IDE
+
+JDK = Java Development Kit
+
+syso - this is only for development purposes/Debugging
+
+
+HTML NOTES:
+===== WHEN YOU HOVER OVER: =====
+'title=...' this will display some text when you hover over the link
+
+===== =====
+'<hr> = this will put a line in the page horizontally
+
+===== TO SET LINES =====
+<pre> put this around multiple lines if you want to keep it how it is in doc
+	instead of using <br> multiple times
+
+===== FONT SIZE =====
+style="font-size:100%;" - 100% = what it would have normally been
+
+===== FONT COLOUR =====
+style="color:red;"
+https://www.w3schools.com/colors/colors_names.asp
+
+===== BACKGROUND COLOUR =====
+style="background-color:blue;"
+
+===== TO HIGHLIGHT TEXT =====
+surround text in: <mark> <mark>
+
+===== TEXT ALIGNMENT =====
+style= "text-align: center;"
