@@ -3,7 +3,6 @@ package com.qa.ecommerce.repository;
 import java.sql.Connection;
 import java.sql.PreparedStatement;
 import java.sql.ResultSet;
-
 import com.qa.ecommerce.db.DBUtils;
 import com.qa.ecommerce.pojo.user;
 
@@ -18,7 +17,6 @@ public class UserRepository {
 		pstmt.setString(5, user.getCompanyAddress());
 		pstmt.setString(6, user.getPassword());
 		pstmt.execute();
-
 	}
 
 	public static user validateUserCredentials(String companyEmail, String password) throws Exception {

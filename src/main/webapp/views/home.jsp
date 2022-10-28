@@ -1,5 +1,6 @@
 <%@ page language="java" contentType="text/html; charset=windows-1256"
 	pageEncoding="windows-1256"%>
+	<%@ page import="java.util.*, com.qa.ecommerce.pojo.user" %>
 <!DOCTYPE html>
 <html>
 <head>

@@ -6,11 +6,11 @@ import org.springframework.web.bind.annotation.RequestMapping;
 @Controller
 public class HomeController {
 
-	@RequestMapping("/")
+	@RequestMapping("/home")
 	public String home() {
 		return "home"; // This is the name of the JSP file
 	}
-
+	
 	@RequestMapping("/RegistrationPage")
 	public String RegistrationPage() {
 		return "RegistrationPage";

@@ -47,7 +47,10 @@
 			<artifactId>tomcat-embed-jasper</artifactId>
 			<version>9.0.65</version>
 		</dependency>
-
+		<dependency>
+			<groupId>org.springframework.session</groupId>
+			<artifactId>spring-session-core</artifactId>
+		</dependency>
 
 	</dependencies>
 

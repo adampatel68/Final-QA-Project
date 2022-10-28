@@ -9,7 +9,6 @@ public class user {
 	private String password;
 
 	public user() {
-
 	}
 
 	public user(String name, String companyName, String companyContactNo, String companyEmail,

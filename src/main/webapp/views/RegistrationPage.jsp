@@ -1,5 +1,6 @@
 <%@ page language="java" contentType="text/html; charset=windows-1256"
 	pageEncoding="windows-1256"%>
+	<%@ page import="java.util.*, com.qa.ecommerce.pojo.user" %>
 <!DOCTYPE html>
 <html>
 <head>
@@ -56,7 +57,7 @@ body {
 					name="password" required>
 			</div>
 		</div>
-		<br> <a href="WelcomePage"><button type="submit"
+		<br> <a href="home"><button type="submit"
 				class="btn btn-primary">Register here</button></a> <br>
 	</form>
 	<footer>
